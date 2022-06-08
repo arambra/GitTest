@@ -1,1 +1,2 @@
-This is the README file v1
+
+This file is generated from Dell Laptop.
