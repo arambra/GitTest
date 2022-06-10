@@ -2,3 +2,4 @@ I am hawk, hewhew.
 I am beautiful hawk.
 I am fly~~.
 I add this sentence after pull request.
+compare rebase and tradtional merge.
