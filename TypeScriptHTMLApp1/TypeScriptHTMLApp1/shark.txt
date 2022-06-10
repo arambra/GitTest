@@ -1,2 +1,3 @@
 I am shark, khahah.
 No you are not. You are just Anchovy.
+I hope to compare traditional merge and rebase merge at Github.com
